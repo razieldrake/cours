@@ -1,3 +1,6 @@
 [submodule "Date"]
 	path = Date
 	url = https://github.com/razieldrake/Lib.git
+[submodule "dossier"]
+	path = dossier
+	url = https://github.com/razieldrake/Lib.git
